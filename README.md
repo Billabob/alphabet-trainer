@@ -1,7 +1,7 @@
 # alphabet trainer
 A simple webpage for learning scripts, principally for Geoguessr
 
-[https://billabob.github.io/AT/trainer.html](https://billabob.github.io/AT/trainer.html)
+[https://billabob.github.io/AT/trainer.html](https://billabob.github.io/alphabet-trainer/trainer.html)
 
 ## How to use:
 
